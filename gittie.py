@@ -10,5 +10,5 @@ def joke():
     print('My computer is so slow it hertz.')
 joke()
 def shout():
-    print('NARA TO BYŁ OSTATNI RAZ!!!')
+    print('NARA!!! + nowa ZMIANA')
 shout()    
