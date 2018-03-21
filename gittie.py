@@ -9,3 +9,6 @@ introduce()
 def joke():
     print('My computer is so slow it hertz.')
 joke()
+def shout():
+    print('Goodbye!!!')
+shout()    
